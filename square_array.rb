@@ -13,3 +13,5 @@ def square_array(array)
   my_array << square }
 my_array
 end
+
+##coded it two ways as a challenge to myself
